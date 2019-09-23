@@ -1,0 +1,13 @@
+node_modules
+
+# Env
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+yarn-error.log
