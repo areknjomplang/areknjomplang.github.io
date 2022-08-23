@@ -1,4 +1,7 @@
 node_modules
+public
+dist
+src
 
 # Env
 .env
